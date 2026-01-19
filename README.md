@@ -83,3 +83,7 @@ Hiệu ứng hình nón ánh sáng động cho UI Unity (UGUI), sử dụng shad
 
 ---
 Tác giả: [Corn094]
+
+## Lịch sử Sao
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Nguyenne094/UI-Light-Cone-Unity&type=date&legend=top-left)](https://www.star-history.com/#Nguyenne094/UI-Light-Cone-Unity&type=date&legend=top-left)

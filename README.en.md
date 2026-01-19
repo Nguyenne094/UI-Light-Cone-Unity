@@ -82,3 +82,7 @@ Dynamic light cone effect for Unity UI (UGUI), using a custom shader and control
 
 ---
 Author: [Corn094]
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Nguyenne094/UI-Light-Cone-Unity&type=date&legend=top-left)](https://www.star-history.com/#Nguyenne094/UI-Light-Cone-Unity&type=date&legend=top-left)
